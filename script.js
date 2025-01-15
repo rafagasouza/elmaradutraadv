@@ -25,7 +25,7 @@ const contactBtn = document.querySelectorAll('#contactBtn')
 
 contactBtn.forEach((botao) =>{
   botao.addEventListener('click', ()=>{
-    const phone = "11986479368"
+    const phone = "1186479368"
 
     //window.open(`https:/wa.me/${phone}?text=${message} Endereço: ${addressInput.value}`, "_blank")
     const url = (`https://wa.me/${phone}`)
