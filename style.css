@@ -29,7 +29,7 @@ main{
   justify-content: center;
   align-items: center;
   background: linear-gradient(to left, rgba(2, 24, 95, 0.7), rgb(29, 30, 87, 0.5)),
-  url('../assets/img/themis.jpg') no-repeat center center;
+  url('./assets/img/themis.jpg') no-repeat center center;
   background-size: cover;
   gap: 5rem;
   color: aliceblue;
@@ -148,7 +148,7 @@ main{
   justify-content: center;
   align-items: center;
   background: linear-gradient(to left, rgba(2, 24, 95, 0.9), rgb(29, 30, 87, 0.8)),
-  url('../assets/img/balance.jpg') no-repeat center center;
+  url('./assets/img/balance.jpg') no-repeat center center;
   background-size: cover;
   gap: 5rem;
   color: aliceblue;
@@ -202,7 +202,7 @@ main{
 
 footer{
   background: linear-gradient(to left, rgba(2, 24, 95, 0.9), rgb(29, 30, 87, 0.8)),
-  url('../assets/img/table.jpg') no-repeat center center;
+  url('./assets/img/table.jpg') no-repeat center center;
   background-size: cover;
   padding: 1.5rem 0 ;
   display: flex;
